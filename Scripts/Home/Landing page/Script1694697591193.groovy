@@ -17,11 +17,14 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://advantageonlineshopping.com/#/')
+/*WebUI.openBrowser('https://advantageonlineshopping.com/#/')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementPresent(findTestObject('Landing Page/btn_Headphones'), 0)
+WebUI.waitForElementPresent(findTestObject('Landing Page/btn_Headphones'), 0)*/
+WebUI.openBrowser('https://advantageonlineshopping.com/#/')
+
+WebUI.maximizeWindow()
 
 WebUI.verifyElementVisible(findTestObject('Landing Page/Logo'), FailureHandling.STOP_ON_FAILURE)
 
@@ -41,9 +44,9 @@ WebUI.verifyElementVisible(findTestObject('Landing Page/btn_cart'), FailureHandl
 
 WebUI.verifyElementVisible(findTestObject('Landing Page/btn_About'), FailureHandling.STOP_ON_FAILURE)
 
-if (WebUI.verifyElementText(findTestObject('Login/txt_usernameDisplay'), '')) {
-	WebUI.click(findTestObject('Landing Page/btn_login'))
+if (WebUI.verifyElementVisible(findTestObject('Login/txt_usernameDisplay'), FailureHandling.OPTIONAL)) {
+    WebUI.click(findTestObject('Landing Page/btn_Tablets'))
 } else {
-	WebUI.click(findTestObject('Landing Page/btn_Tablets'))
+    WebUI.click(findTestObject('Landing Page/btn_login'))
 }
 

@@ -3,7 +3,7 @@
    <description></description>
    <name>txt_HP ELITEPAD 1000 G2 TABLET</name>
    <tag></tag>
-   <elementGuidId>a2f5f357-087f-4bbc-9e83-9444056cd8a5</elementGuidId>
+   <elementGuidId>fae2cb03-4353-4a61-9672-a2b6a02e1a20</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h1</value>
-      <webElementGuid>dbb894ff-2061-4f83-b404-1f695082a67a</webElementGuid>
+      <webElementGuid>945699a1-c010-42ea-968b-e660ca17743f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>roboto-regular screen768 ng-binding</value>
-      <webElementGuid>23dd12f2-1121-40ee-a02d-bc6fec51e19a</webElementGuid>
+      <webElementGuid>dcb08278-58b9-448f-86e2-a87235fb5458</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> HP ELITEPAD 1000 G2 TABLET </value>
-      <webElementGuid>51ee4e7b-0468-431c-9413-cc589156ab07</webElementGuid>
+      <webElementGuid>38cb9795-e676-46d1-bda5-49c21b487049</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Description&quot;)/h1[@class=&quot;roboto-regular screen768 ng-binding&quot;]</value>
-      <webElementGuid>d59a29e7-23dc-4741-a993-05b306d8fd02</webElementGuid>
+      <webElementGuid>d86e4a8a-e5d5-4b2d-8213-443295a6e46d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Description']/h1</value>
-      <webElementGuid>d3498329-2d9f-4005-8f6c-1bba125fa818</webElementGuid>
+      <webElementGuid>b7c76cb1-eb57-44c5-90db-f897ce7bca0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/following::h1[1]</value>
-      <webElementGuid>bf4b3b22-d7a8-4908-8b57-d3573432e7bc</webElementGuid>
+      <webElementGuid>bdc2cd13-d8f7-4b83-ba56-8d2fc4027cb3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/preceding::h1[1]</value>
-      <webElementGuid>9d1f531f-9d79-42fe-bc45-9a70a92a37aa</webElementGuid>
+      <webElementGuid>f02e3022-b24e-4e7c-a5f9-6c7e97f8c48f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/h1</value>
-      <webElementGuid>0ea245ec-10a6-40c6-9c9b-3f59d2e021ed</webElementGuid>
+      <webElementGuid>cf755d44-0e8c-41a2-b10c-943d4c365bf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h1[(text() = ' HP ELITEPAD 1000 G2 TABLET ' or . = ' HP ELITEPAD 1000 G2 TABLET ')]</value>
-      <webElementGuid>f34a9fd4-20c8-4e77-9aee-fc1ba62c27fb</webElementGuid>
+      <webElementGuid>e67363c1-6cff-402d-a7b8-d5b6215f2440</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

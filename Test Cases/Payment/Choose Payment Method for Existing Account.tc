@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Choose Payment Method for Existing Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aad5ce33-984b-45bd-a299-b3896aa35963</testCaseGuid>
+</TestCaseEntity>
