@@ -17,10 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('Login-Logout/Login Form'), [:], FailureHandling.STOP_ON_FAILURE)
-
-WebUI.callTestCase(findTestCase('Home/Open Tablets Detail Page'), [:], FailureHandling.STOP_ON_FAILURE)
-
 WebUI.verifyElementVisible(findTestObject('Payment Order/txt_HP ELITEPAD 1000 G2 TABLET'))
 
 WebUI.verifyElementVisible(findTestObject('Payment Order/img_tablet'))
@@ -54,4 +50,6 @@ WebUI.verifyElementPresent(findTestObject('Payment Order/button_NEXT'), 0)
 WebUI.click(findTestObject('Payment Order/button_NEXT'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Payment Method/btn_Back to shipping details'), 0)
+
+WebUI.callTestCase(findTestCase('Payment/Choose Payment Method for Existing Account'), [:], FailureHandling.STOP_ON_FAILURE)
 

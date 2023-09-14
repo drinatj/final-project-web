@@ -6,7 +6,7 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'drinatest3'</initValue>
+      <initValue>'drinatest'</initValue>
       <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -18,5 +18,10 @@
       <description></description>
       <initValue>'Safepay'</initValue>
       <name>paymentMethod</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'drinatest4'</initValue>
+      <name>usernameNew</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

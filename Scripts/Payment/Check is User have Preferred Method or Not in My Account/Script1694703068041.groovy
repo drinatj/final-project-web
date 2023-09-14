@@ -32,11 +32,12 @@ WebUI.verifyElementPresent(findTestObject('My Account/txt_MyAccount'), 0)
 WebUI.verifyElementPresent(findTestObject('My Account/txt_PreferredPaymentMethod'), 0)
 
 if (WebUI.verifyElementVisible(findTestObject('My Account/label_Preferred payment was not specified'), FailureHandling.OPTIONAL)) {
-	WebUI.click(findTestObject('Landing Page/Logo'))
-	WebUI.click(findTestObject('Landing Page/btn_Speakers'))
-	println("ada textnya")
+    println('User belum pernah menyimpan infomrasi pembayaran')
 } else {
     WebUI.click(findTestObject('Landing Page/Logo'))
-	println("udah pernah bayar")
+
+    println('User memiliki informasi pembayaran')
 }
+
+WebUI.closeBrowser()
 
