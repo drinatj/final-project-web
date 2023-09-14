@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('New Folder/Login'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.waitForElementPresent(findTestObject('Landing Page/btn_Tablets'), 0)
 
 WebUI.click(findTestObject('Landing Page/btn_Tablets'))
 
@@ -27,8 +27,7 @@ WebUI.verifyElementVisible(findTestObject('Add to Cart Tablets/txt_Travel banner
 
 WebUI.verifyElementVisible(findTestObject('Add to Cart Tablets/txt_Built for Durability banner'))
 
-WebUI.verifyElementVisible(findTestObject('Add to Cart Tablets/txt_HP ElitePad 1000 G2 banner'), 
-    FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Add to Cart Tablets/txt_HP ElitePad 1000 G2 banner'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementVisible(findTestObject('Add to Cart Tablets/button_BuyNow'))
 

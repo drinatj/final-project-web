@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>Open Tablets Detail Page</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4c2abc58-3aa9-42b8-b18a-d905af822fb4</testCaseGuid>
+   <testCaseGuid>6a7b423d-b7b3-449a-bef8-77928cf5ce2f</testCaseGuid>
 </TestCaseEntity>

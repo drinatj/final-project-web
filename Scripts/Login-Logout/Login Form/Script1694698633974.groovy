@@ -21,7 +21,7 @@ WebUI.openBrowser('https://advantageonlineshopping.com/#/')
 
 WebUI.maximizeWindow()
 
-WebUI.waitForElementPresent(findTestObject('Login/btn_ForgotYourPassword'), 0)
+WebUI.waitForElementPresent(findTestObject('Landing Page/btn_Speakers'), 0)
 
 WebUI.verifyElementVisible(findTestObject('Landing Page/btn_login'))
 
@@ -54,8 +54,6 @@ WebUI.check(findTestObject('Login/input_RememberMe'), FailureHandling.STOP_ON_FA
 WebUI.verifyElementClickable(findTestObject('Login/btn_SignIn'), FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Login/btn_SignIn'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.waitForElementPresent(findTestObject('Login/txt_usernameDisplay'), 0)
 
 WebUI.verifyElementText(findTestObject('Login/txt_usernameDisplay'), GlobalVariable.username)
 

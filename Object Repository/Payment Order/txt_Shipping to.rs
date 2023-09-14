@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_Shipping to</name>
+   <tag></tag>
+   <elementGuidId>9ea7581b-1149-4924-a1eb-7e7dd706b19c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.seccion.borderRight > span.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='orderPaymentSuccess']/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>694e91f9-6515-4d41-999e-aedcf188edd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>Shipping_to</value>
+      <webElementGuid>dde9a008-1b70-43fe-9791-a6f5bc1004ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>a57e7e06-34e3-4c0a-938b-c7a1cb4f6f59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shipping to</value>
+      <webElementGuid>911877cf-6411-4f0e-bc7d-ca33b68e248d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderPaymentSuccess&quot;)/div[1]/div[@class=&quot;seccion borderRight&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>5f7c12f6-7cdf-4fec-baec-0985200606a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderPaymentSuccess']/div/div/span</value>
+      <webElementGuid>8d883522-08ad-4e1a-9e36-d73daa7fb957</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your warranty number is'])[1]/following::span[1]</value>
+      <webElementGuid>8bc20121-5a6c-4b51-9e52-d542134cf08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/following::span[1]</value>
+      <webElementGuid>e6ed5b34-b939-4de6-82cc-1b2619ebf8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='drina test'])[2]/preceding::span[1]</value>
+      <webElementGuid>5a18d237-f868-4941-9695-74818d29b8fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bojong'])[2]/preceding::span[1]</value>
+      <webElementGuid>85b06704-524c-436e-95b2-0ae7ef8fbc48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shipping to']/parent::*</value>
+      <webElementGuid>c9b037e0-4ea4-4507-839d-0b76d3ba273f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/span</value>
+      <webElementGuid>0108221a-d521-4515-8f56-62b0b33268ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shipping to' or . = 'Shipping to')]</value>
+      <webElementGuid>e777c482-3a57-4697-a045-9eb0516be54a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

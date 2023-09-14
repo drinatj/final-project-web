@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_SafePay username</name>
+   <tag></tag>
+   <elementGuidId>748d62a3-a6c3-4799-8e8d-f59426ca10a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(2) > sec-form.ng-isolate-scope.secForm > sec-view.ng-isolate-scope.sec-view > div.inputContainer.ng-scope > label.animated</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethod']/div/div[2]/sec-form/sec-view/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>14947dd4-66a9-4c3c-99b2-4dc481ef0923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-click</name>
+      <type>Main</type>
+      <value>labelClicked()</value>
+      <webElementGuid>138dcb2a-7131-42b6-90eb-3b4b3f8e70b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ng-mouseout</name>
+      <type>Main</type>
+      <value>labelOut()</value>
+      <webElementGuid>92844050-5051-4b60-9f37-0d785d1f6387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>animated</value>
+      <webElementGuid>a4f6b056-e627-429f-9779-b327a4950610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SafePay username</value>
+      <webElementGuid>1105de45-f061-4242-9de0-61e25126f307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethod&quot;)/div[1]/div[2]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/sec-view[@class=&quot;ng-isolate-scope sec-view&quot;]/div[@class=&quot;inputContainer ng-scope&quot;]/label[@class=&quot;animated&quot;]</value>
+      <webElementGuid>f44a5c31-84c8-436b-8d2a-1eeed6c5abd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethod']/div/div[2]/sec-form/sec-view/div/label</value>
+      <webElementGuid>32dd4bd0-8d5b-4093-a7b8-8763e2193c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::label[1]</value>
+      <webElementGuid>c253434e-d536-49c0-a9c8-86f5e3e9b8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice'])[1]/following::label[2]</value>
+      <webElementGuid>c2ca94c3-f40c-4417-98c8-62a0c4d670bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use maximum 15 character'])[1]/preceding::label[1]</value>
+      <webElementGuid>dc39e955-cbc8-4c03-9602-a212ddab5f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/sec-form/sec-view/div/label</value>
+      <webElementGuid>0c7f76d3-6275-4fdc-81a7-1bde01a91b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'SafePay username' or . = 'SafePay username')]</value>
+      <webElementGuid>fa6addac-64ed-4cdf-9bd7-28867b414c19</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

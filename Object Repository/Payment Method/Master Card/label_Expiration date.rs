@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Expiration date</name>
+   <tag></tag>
+   <elementGuidId>83140102-e2ed-43ff-a8bb-8c52733701fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.roboto-regular.expiration_date_title.ng-scope</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='paymentMethod']/div/div[4]/sec-form/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>31662a52-ce6a-4dcf-a799-261aab66ec42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>roboto-regular expiration_date_title ng-scope</value>
+      <webElementGuid>4e6c782b-be3c-4a83-a68e-68f74d3fcc07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>Expiration_Date</value>
+      <webElementGuid>a0ab44d6-bbec-4dd0-930a-b54ad4105ed7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Expiration date</value>
+      <webElementGuid>2337c34a-c4f1-4414-9328-cb6469d370ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;paymentMethod&quot;)/div[1]/div[4]/sec-form[@class=&quot;ng-isolate-scope secForm&quot;]/label[@class=&quot;roboto-regular expiration_date_title ng-scope&quot;]</value>
+      <webElementGuid>5bb0c5ac-cf4a-4a8a-9bdf-3174afd98ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='paymentMethod']/div/div[4]/sec-form/label</value>
+      <webElementGuid>437378a0-77a3-4460-ad45-9a24f4e8f417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Use exactly 3 digits'])[1]/following::label[1]</value>
+      <webElementGuid>6a4e92ce-01c4-4875-b15e-fa6fda8c72b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CVV number'])[2]/following::label[1]</value>
+      <webElementGuid>926ebe84-d87d-4fe4-a809-9aa0afa5d846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/preceding::label[1]</value>
+      <webElementGuid>f19505e3-1f8b-44be-9469-22a57009f3b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MM'])[2]/preceding::label[1]</value>
+      <webElementGuid>4bddd900-ce48-4233-bfcf-1670745779a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Expiration date']/parent::*</value>
+      <webElementGuid>ecaf64e2-d916-4a18-87cb-e93d7ce53aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sec-form/label</value>
+      <webElementGuid>88174de8-f1ad-4726-99d2-9d28d8a975c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Expiration date' or . = 'Expiration date')]</value>
+      <webElementGuid>aa2959c6-b6c0-490e-bb23-cad134a11356</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

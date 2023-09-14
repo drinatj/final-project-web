@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_PaymentMethod</name>
+   <tag></tag>
+   <elementGuidId>fb3229dc-26a3-401a-b45d-b69a59f18866</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='orderPaymentSuccess']/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3d90a6b2-59ed-4c6b-bd53-a629cfec8460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>translate</name>
+      <type>Main</type>
+      <value>Payment_Method</value>
+      <webElementGuid>cf94b5fe-62dd-489b-a8f2-62a90bb1f99c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-scope</value>
+      <webElementGuid>3e156556-043d-4b25-8e3e-ad9be5ccde8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Payment method</value>
+      <webElementGuid>7aafb970-5208-491f-a170-6cb12f996ea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;orderPaymentSuccess&quot;)/div[1]/div[@class=&quot;seccion borderRight&quot;]/span[@class=&quot;ng-scope&quot;]</value>
+      <webElementGuid>e3e07407-9968-453e-9a8a-ce996814adf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='orderPaymentSuccess']/div/div[2]/span</value>
+      <webElementGuid>ae731164-70b3-433e-91ac-ce5b513560b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Equador'])[2]/following::span[1]</value>
+      <webElementGuid>2936192e-5d85-42f2-bed3-aebe4331d1bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Indo'])[2]/following::span[1]</value>
+      <webElementGuid>0133e9ab-d1fc-472b-802a-cf04128e51f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='****'])[1]/preceding::span[1]</value>
+      <webElementGuid>cbaaa980-8440-4294-8635-cd4928035761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Payment method']/parent::*</value>
+      <webElementGuid>f2a078b0-8737-40dd-aeaa-708ae454e3d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/span</value>
+      <webElementGuid>215b1acb-6da0-499e-9878-ffa0cd813ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Payment method' or . = 'Payment method')]</value>
+      <webElementGuid>84cab92d-7b64-4bdc-996d-10818a498f11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

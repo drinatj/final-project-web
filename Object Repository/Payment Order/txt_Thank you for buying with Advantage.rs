@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>txt_HP ELITEPAD 1000 G2 TABLET</name>
+   <name>txt_Thank you for buying with Advantage</name>
    <tag></tag>
-   <elementGuidId>a2f5f357-087f-4bbc-9e83-9444056cd8a5</elementGuidId>
+   <elementGuidId>cc42374a-6dfd-4993-8750-5d2ae2e0e4f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h1.roboto-regular.screen768.ng-binding</value>
+         <value>h2</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='Description']/h1</value>
+         <value>//div[@id='orderPaymentSuccess']/h2</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,71 +21,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h1</value>
-      <webElementGuid>dbb894ff-2061-4f83-b404-1f695082a67a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>roboto-regular screen768 ng-binding</value>
-      <webElementGuid>23dd12f2-1121-40ee-a02d-bc6fec51e19a</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>97a87e49-4c79-47d4-ac25-4bd25776f340</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value> HP ELITEPAD 1000 G2 TABLET </value>
-      <webElementGuid>51ee4e7b-0468-431c-9413-cc589156ab07</webElementGuid>
+      <value> Thank you for buying with Advantage </value>
+      <webElementGuid>70441d3d-e94d-4d57-b699-26c0fafcbdf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;Description&quot;)/h1[@class=&quot;roboto-regular screen768 ng-binding&quot;]</value>
-      <webElementGuid>d59a29e7-23dc-4741-a993-05b306d8fd02</webElementGuid>
+      <value>id(&quot;orderPaymentSuccess&quot;)/h2[1]</value>
+      <webElementGuid>e91968ad-14f5-4d9f-9387-6ab16c6ac8c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='Description']/h1</value>
-      <webElementGuid>d3498329-2d9f-4005-8f6c-1bba125fa818</webElementGuid>
+      <value>//div[@id='orderPaymentSuccess']/h2</value>
+      <webElementGuid>fe3bb48b-452b-4fa4-bc63-133579539053</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[1]/following::h1[1]</value>
-      <webElementGuid>bf4b3b22-d7a8-4908-8b57-d3573432e7bc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$0.00'])[4]/following::h2[1]</value>
+      <webElementGuid>fbf70c20-c9e7-4824-9b75-16dd06f96a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SOLD OUT'])[2]/preceding::h1[1]</value>
-      <webElementGuid>9d1f531f-9d79-42fe-bc45-9a70a92a37aa</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/preceding::h2[1]</value>
+      <webElementGuid>c4152bd3-5fb6-4a5e-9575-b22f39bad4e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/h1</value>
-      <webElementGuid>0ea245ec-10a6-40c6-9c9b-3f59d2e021ed</webElementGuid>
+      <value>//h2</value>
+      <webElementGuid>aa1f9c78-fdb9-48f4-b900-7caaf95ba31c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//h1[(text() = ' HP ELITEPAD 1000 G2 TABLET ' or . = ' HP ELITEPAD 1000 G2 TABLET ')]</value>
-      <webElementGuid>f34a9fd4-20c8-4e77-9aee-fc1ba62c27fb</webElementGuid>
+      <value>//h2[(text() = ' Thank you for buying with Advantage ' or . = ' Thank you for buying with Advantage ')]</value>
+      <webElementGuid>9af6ab93-7628-4604-9fdb-d3719fefc1f1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

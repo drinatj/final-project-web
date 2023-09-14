@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Add to Cart</name>
+   <name>Choose Payment Method for New Account</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6a7b423d-b7b3-449a-bef8-77928cf5ce2f</testCaseGuid>
+   <testCaseGuid>46e83e27-d39e-4e4b-9635-79c458427848</testCaseGuid>
 </TestCaseEntity>
