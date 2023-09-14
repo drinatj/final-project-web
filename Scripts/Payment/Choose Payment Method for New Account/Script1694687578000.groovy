@@ -55,3 +55,5 @@ WebUI.waitForElementPresent(findTestObject('Payment Order/txt_Thank you for buyi
 
 WebUI.verifyElementPresent(findTestObject('Payment Order/txt_Thank you for buying with Advantage'), 0)
 
+WebUI.closeBrowser()
+

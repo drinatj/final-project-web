@@ -21,7 +21,6 @@ WebUI.verifyElementPresent(findTestObject('Payment Method/Safepay/input_safepay'
 
 WebUI.verifyElementPresent(findTestObject('Payment Method/Master Card/input_masterCredit'), 0)
 
-
 if (GlobalVariable.paymentMethod == 'Safepay') {
     WebUI.click(findTestObject('Payment Method/Safepay/input_safepay'))
 
@@ -45,4 +44,6 @@ if (GlobalVariable.paymentMethod == 'Safepay') {
 WebUI.waitForElementPresent(findTestObject('Payment Order/txt_Thank you for buying with Advantage'), 0)
 
 WebUI.verifyElementPresent(findTestObject('Payment Order/txt_Thank you for buying with Advantage'), 0)
+
+WebUI.closeBrowser()
 
